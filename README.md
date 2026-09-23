@@ -1,6 +1,6 @@
 # DeepSeek Chat Exporter
 
-Chrome extension to export DeepSeek conversations with thinking content.
+Browser extension to export DeepSeek conversations with thinking content.
 
 ## Features
 
